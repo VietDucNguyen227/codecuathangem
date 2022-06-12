@@ -1,0 +1,13 @@
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\bin\Debug\netcoreapp3.1\LabWorkArrayList.exe
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\bin\Debug\netcoreapp3.1\LabWorkArrayList.deps.json
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\bin\Debug\netcoreapp3.1\LabWorkArrayList.runtimeconfig.json
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\bin\Debug\netcoreapp3.1\LabWorkArrayList.runtimeconfig.dev.json
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\bin\Debug\netcoreapp3.1\LabWorkArrayList.dll
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\bin\Debug\netcoreapp3.1\LabWorkArrayList.pdb
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\obj\Debug\netcoreapp3.1\LabWorkArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\obj\Debug\netcoreapp3.1\LabWorkArrayList.AssemblyInfoInputs.cache
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\obj\Debug\netcoreapp3.1\LabWorkArrayList.AssemblyInfo.cs
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\obj\Debug\netcoreapp3.1\LabWorkArrayList.csproj.CoreCompileInputs.cache
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\obj\Debug\netcoreapp3.1\LabWorkArrayList.dll
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\obj\Debug\netcoreapp3.1\LabWorkArrayList.pdb
+D:\Visual Studio\cSharp\MyProject\LabWork3.2\obj\Debug\netcoreapp3.1\LabWorkArrayList.genruntimeconfig.cache

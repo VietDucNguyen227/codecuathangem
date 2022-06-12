@@ -1,0 +1,14 @@
+D:\Visual Studio\cSharp\MyProject\Lab03\bin\Debug\netcoreapp3.1\Lab03.exe
+D:\Visual Studio\cSharp\MyProject\Lab03\bin\Debug\netcoreapp3.1\Lab03.deps.json
+D:\Visual Studio\cSharp\MyProject\Lab03\bin\Debug\netcoreapp3.1\Lab03.runtimeconfig.json
+D:\Visual Studio\cSharp\MyProject\Lab03\bin\Debug\netcoreapp3.1\Lab03.runtimeconfig.dev.json
+D:\Visual Studio\cSharp\MyProject\Lab03\bin\Debug\netcoreapp3.1\Lab03.dll
+D:\Visual Studio\cSharp\MyProject\Lab03\bin\Debug\netcoreapp3.1\Lab03.pdb
+D:\Visual Studio\cSharp\MyProject\Lab03\obj\Debug\netcoreapp3.1\Lab03.csproj.AssemblyReference.cache
+D:\Visual Studio\cSharp\MyProject\Lab03\obj\Debug\netcoreapp3.1\Lab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\cSharp\MyProject\Lab03\obj\Debug\netcoreapp3.1\Lab03.AssemblyInfoInputs.cache
+D:\Visual Studio\cSharp\MyProject\Lab03\obj\Debug\netcoreapp3.1\Lab03.AssemblyInfo.cs
+D:\Visual Studio\cSharp\MyProject\Lab03\obj\Debug\netcoreapp3.1\Lab03.csproj.CoreCompileInputs.cache
+D:\Visual Studio\cSharp\MyProject\Lab03\obj\Debug\netcoreapp3.1\Lab03.dll
+D:\Visual Studio\cSharp\MyProject\Lab03\obj\Debug\netcoreapp3.1\Lab03.pdb
+D:\Visual Studio\cSharp\MyProject\Lab03\obj\Debug\netcoreapp3.1\Lab03.genruntimeconfig.cache

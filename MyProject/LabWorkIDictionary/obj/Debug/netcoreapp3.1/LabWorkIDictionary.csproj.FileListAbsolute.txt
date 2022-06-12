@@ -1,0 +1,14 @@
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\bin\Debug\netcoreapp3.1\LabWorkIDictionary.exe
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\bin\Debug\netcoreapp3.1\LabWorkIDictionary.deps.json
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\bin\Debug\netcoreapp3.1\LabWorkIDictionary.runtimeconfig.json
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\bin\Debug\netcoreapp3.1\LabWorkIDictionary.runtimeconfig.dev.json
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\bin\Debug\netcoreapp3.1\LabWorkIDictionary.dll
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\bin\Debug\netcoreapp3.1\LabWorkIDictionary.pdb
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\obj\Debug\netcoreapp3.1\LabWorkIDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\obj\Debug\netcoreapp3.1\LabWorkIDictionary.AssemblyInfoInputs.cache
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\obj\Debug\netcoreapp3.1\LabWorkIDictionary.AssemblyInfo.cs
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\obj\Debug\netcoreapp3.1\LabWorkIDictionary.csproj.CoreCompileInputs.cache
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\obj\Debug\netcoreapp3.1\LabWorkIDictionary.dll
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\obj\Debug\netcoreapp3.1\LabWorkIDictionary.pdb
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\obj\Debug\netcoreapp3.1\LabWorkIDictionary.genruntimeconfig.cache
+D:\Visual Studio\cSharp\MyProject\LabWorkIDictionary\obj\Debug\netcoreapp3.1\LabWorkIDictionary.csproj.AssemblyReference.cache
